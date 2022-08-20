@@ -1,6 +1,4 @@
-# AmirSHop Is A Sample Online Store Using React & Redux 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# AmirShop Is A Sample Online Store Using React & Redux 
 
 ## Available Scripts
 
